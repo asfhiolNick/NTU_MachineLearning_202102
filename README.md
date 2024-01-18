@@ -1,3 +1,48 @@
+# NTU_MachineLearning_202102
+
+## 概述
+這是一個與李宏毅老師的 "機器學習" 課程相關的 GitHub 存儲庫。本專案旨在提供與機器學習相關的學習資源和代碼實例。
+
+## 內容
+- **202102{hw2-hw11, hw14}**: 這些為 2022 年 3 月至 6 月期間的修課產出。
+- **2021ML 和 2022ML**: 這些作業提供的程式碼是從 fork 繼承而來。
+
+## 使用語言
+- **Jupyter Notebook (100.0%)**
+
+## 專案目的
+- 提供一個平台，用於學習和實踐機器學習的各種技術和算法。
+- 包含與機器學習相關的 Jupyter Notebook 代碼和學習資料。
+
+## 如何貢獻
+對於有興趣於此專案的開發者和學生，您的貢獻是歡迎的。您可以通過提交 Pull 請求或開啟 Issues 來參與。
+
+## 版權和許可
+本專案遵循適用的版權法。使用前請確認相關授權條款。
+
+# NTU_MachineLearning_202102
+
+## Overview
+This is a GitHub repository related to Professor Li Hong-Yi's "Machine Learning" course. The repository aims to provide learning resources and code examples related to machine learning.
+
+## Contents
+- **202102{hw2-hw11, hw14}**: These are the course outputs from March to June 2022.
+- **2021ML and 2022ML**: These are the homework codes inherited from forks.
+
+## Languages Used
+- **Jupyter Notebook (100.0%)**
+
+## Purpose of the Project
+- To provide a platform for learning and practicing various techniques and algorithms in machine learning.
+- Includes Jupyter Notebook codes and learning materials related to machine learning.
+
+## How to Contribute
+Contributions from developers and students interested in this project are welcome. You can participate by submitting Pull Requests or opening Issues.
+
+## Copyright and License
+This project adheres to applicable copyright laws. Please ensure compliance with relevant licensing terms before use.
+
+
 李宏毅2021/2022春季机器学习课程课件及作业
 ===========================
 
